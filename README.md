@@ -7,10 +7,14 @@ There are flights with multiple stops, and, therefore, multiple aircraft types a
 HYPOTHESIS:
 
 We want to analyze which are the most pollutant routes in summer 2022.
+
 Which are the most polluting aircraft types.
+
 See the correlation between the price of the ticket and the CO2 emmited.
+
 Most popular routes.
 Shortest and longest routes.
+
 Correlation between price and:
     - Distance
     - Stops
