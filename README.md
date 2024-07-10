@@ -22,7 +22,7 @@ Find another data sheet that informs us on how much fuel consumption by plane ty
 
 Created an environment called sky_track_2022
 
-Imported the following dictionaries - pandas, numpy, seaborn and matplotlib
+Imported the following dictionaries - pandas, numpy, seaborn, matplotlib, geopy
 
 Data Preparation:
 
