@@ -92,7 +92,7 @@
 
 1. **Most Pollutant Routes in Summer 2022**:
     - **Approach**: Sum CO2 emissions for all flights on each route, then rank them to find the most polluting routes.
-![Top 20 Most Pollutant Routes by CO2 Emissions](images/top_pollutant_routes.png)
+![Top 20 Most Pollutant Routes by CO2 Emissions](https://github.com/Josepdmo/big-project-number-1/blob/main/Images/Top%2020%20most%20pollutant%20routes%20.png)
 
 This graph shows the top 20 most pollutant routes by CO2 emissions.
 
