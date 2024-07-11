@@ -100,28 +100,28 @@
 
 3. **CO2 Emissions by Airline**:
     - **Approach**: Aggregate CO2 emissions data by airline and analyze their relative environmental impact.
-![Top 20 Most Polluting Aircrafts]()
+![Top 20 Most Polluting Aircrafts](https://github.com/Josepdmo/big-project-number-1/blob/main/Images/C02%20emissions%20by%20airline.png)
 
 4. **CO2 Emissions by Airport**:
     - **Approach**: Sum the CO2 emissions for all departures and arrivals at each airport.
-![Top 20 Most Polluting Aircrafts]()
+![Top 20 Most Polluting Aircrafts](https://github.com/Josepdmo/big-project-number-1/blob/main/Images/Top%2010%20most%20polluting%20airports.png)
 
 5. **Most Popular Routes**:
     - **Approach**: Count the number of flights for each route and rank them.
-![Top 20 Most Polluting Aircrafts]()
+![Top 20 Most Polluting Aircrafts](https://github.com/Josepdmo/big-project-number-1/blob/main/Images/Top%2010%20most%20populat%20routes.png)
 
 6. **Shortest and Longest Routes**:
     - **Approach**: Use the distance data to identify the shortest and longest routes.
-![Top 20 Most Polluting Aircrafts]()
-![Top 20 Most Polluting Aircrafts]()
+![Top 20 Most Polluting Aircrafts](https://github.com/Josepdmo/big-project-number-1/blob/main/Images/Top%2010%20shortest%20routes.png)
+![Top 20 Most Polluting Aircrafts](https://github.com/Josepdmo/big-project-number-1/blob/main/Images/Top%2010%20longest%20routes.png)
 
 7. **Correlation Between Price and Distance**:
     - **Approach**: Calculate the correlation coefficient between ticket price and distance traveled.
-![Top 20 Most Polluting Aircrafts]()
+![Top 20 Most Polluting Aircrafts](https://github.com/Josepdmo/big-project-number-1/blob/main/Images/Correlation%20between%20price%20and%20duration.png)
 
 8. **Correlation Between Ticket Price and CO2 Emissions**:
     - **Approach**: Calculate the correlation coefficient between ticket price and CO2 emissions.
-![Top 20 Most Polluting Aircrafts]()
+![Top 20 Most Polluting Aircrafts](https://github.com/Josepdmo/big-project-number-1/blob/main/Images/Correlation%20between%20Price%20and%20CO2%20Emissions.png)
 
 9. **Fuel Consumption by Plane Type**:
     - **Approach**: Use the additional fuel consumption data to calculate the fuel consumption for each flight based on its aircraft type and distance, then analyze the results.
