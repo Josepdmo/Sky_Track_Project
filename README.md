@@ -94,29 +94,34 @@
     - **Approach**: Sum CO2 emissions for all flights on each route, then rank them to find the most polluting routes.
 ![Top 20 Most Pollutant Routes by CO2 Emissions](https://github.com/Josepdmo/big-project-number-1/blob/main/Images/Top%2020%20most%20pollutant%20routes%20.png)
 
-This graph shows the top 20 most pollutant routes by CO2 emissions.
-
-
 2. **Most Polluting Aircraft Types**:
     - **Approach**: Aggregate CO2 emissions by aircraft type and identify which types have the highest emissions.
+![Top 20 Most Polluting Aircrafts]()
 
 3. **CO2 Emissions by Airline**:
     - **Approach**: Aggregate CO2 emissions data by airline and analyze their relative environmental impact.
+![Top 20 Most Polluting Aircrafts]()
 
 4. **CO2 Emissions by Airport**:
     - **Approach**: Sum the CO2 emissions for all departures and arrivals at each airport.
+![Top 20 Most Polluting Aircrafts]()
 
 5. **Most Popular Routes**:
     - **Approach**: Count the number of flights for each route and rank them.
+![Top 20 Most Polluting Aircrafts]()
 
 6. **Shortest and Longest Routes**:
     - **Approach**: Use the distance data to identify the shortest and longest routes.
+![Top 20 Most Polluting Aircrafts]()
+![Top 20 Most Polluting Aircrafts]()
 
 7. **Correlation Between Price and Distance**:
     - **Approach**: Calculate the correlation coefficient between ticket price and distance traveled.
+![Top 20 Most Polluting Aircrafts]()
 
 8. **Correlation Between Ticket Price and CO2 Emissions**:
     - **Approach**: Calculate the correlation coefficient between ticket price and CO2 emissions.
+![Top 20 Most Polluting Aircrafts]()
 
 9. **Fuel Consumption by Plane Type**:
     - **Approach**: Use the additional fuel consumption data to calculate the fuel consumption for each flight based on its aircraft type and distance, then analyze the results.
