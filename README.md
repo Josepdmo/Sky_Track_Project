@@ -57,28 +57,28 @@
 ## Hypotheses and Analyses
 
 1. **Most Pollutant Routes in Summer 2022**
-    - **Analysis**: Calculate and rank total CO2 emissions for each route.
+    - **Analysis**: Long haul routes produce significantly more CO2 emissions compared to others.
 
 2. **Most Polluting Aircraft Types**
-    - **Analysis**: Aggregate CO2 emissions by aircraft type to identify the highest emitters.
+    - **Analysis**: Larger aircraft types emit more CO2 compared to smaller aircraft types.
 
 3. **CO2 Emissions by Airline**
-    - **Analysis**: Aggregate and compare CO2 emissions by airline.
+    - **Analysis**: Low-cost airlines emit less CO2 per flight compared to premium airlines.
   
 4. **CO2 Emissions by Airport**
-    - **Analysis**: Sum CO2 emissions for all departures and arrivals at each airport.
+    - **Analysis**: Major international airports contribute more to CO2 emissions compared to regional airports.
 
 5. **Most Popular Routes**
-    - **Analysis**: Count and rank the number of flights for each route.
+    - **Analysis**: The most popular routes are typically short-haul flights.
 
 6. **Shortest and Longest Routes**
     - **Analysis**: Identify routes with minimum and maximum distances.
 
 7. **Correlation Between Price and Distance**
-    - **Analysis**: Calculate the correlation coefficient between ticket price and distance.
+    - **Analysis**: Ticket prices increase with the distance traveled..
 
 8. **Correlation Between Ticket Price and CO2 Emissions**
-    - **Analysis**: Calculate the correlation coefficient between ticket price and CO2 emissions.
+    - **Analysis**: Flights with higher ticket prices are associated with higher CO2 emissions.
 
 9. **Fuel Consumption by Aircraft Type**
     - **Additional Data Required**: Fuel consumption rates for different aircraft types.
