@@ -62,22 +62,22 @@
 2. **Most Polluting Aircraft Types**
     - **Analysis**: Aggregate CO2 emissions by aircraft type to identify the highest emitters.
 
-7. **CO2 Emissions by Airline**
+3. **CO2 Emissions by Airline**
     - **Analysis**: Aggregate and compare CO2 emissions by airline.
   
-8. **CO2 Emissions by Airport**
+4. **CO2 Emissions by Airport**
     - **Analysis**: Sum CO2 emissions for all departures and arrivals at each airport.
 
-4. **Most Popular Routes**
+5. **Most Popular Routes**
     - **Analysis**: Count and rank the number of flights for each route.
 
-5. **Shortest and Longest Routes**
+6. **Shortest and Longest Routes**
     - **Analysis**: Identify routes with minimum and maximum distances.
 
-6. **Correlation Between Price and Distance**
+7. **Correlation Between Price and Distance**
     - **Analysis**: Calculate the correlation coefficient between ticket price and distance.
 
-3. **Correlation Between Ticket Price and CO2 Emissions**
+8. **Correlation Between Ticket Price and CO2 Emissions**
     - **Analysis**: Calculate the correlation coefficient between ticket price and CO2 emissions.
 
 9. **Fuel Consumption by Aircraft Type**
@@ -129,6 +129,31 @@
 ## Results
 
 - Present the findings from each analysis, supported by graphs and charts created for each hypothesis.
+
+1. **Most Pollutant Routes in Summer 2022**:
+    - The table reveals that routes between Mumbai and Delhi top the list with over 51 million kg of CO2 emissions each. Other significant routes include Melbourne to Sydney, Delhi to Bangalore, and Sydney to Melbourne, each with emissions around 47-48 million kg. Major hubs such as Mumbai, Delhi, Melbourne, Sydney, and Shanghai are key contributors to high CO2 emissions, indicating substantial environmental impact from flights originating there. Frequent destination cities with high emissions include Delhi, Sydney, Singapore, and London, highlighting significant air traffic between these hubs and various departure cities.
+
+2. **Most Polluting Aircraft Types**:
+    - The bar graph reveals that the Boeing 777 is the most polluting aircraft type, with CO2 emissions exceeding 600 million kg. It is followed closely by the Boeing 787 and Airbus A320, both of which also have high emissions. Other significant contributors include the Boeing 737 and Airbus A330. The data indicates that Boeing and Airbus aircraft dominate the list of top 20 most polluting aircraft types, highlighting the substantial environmental impact of these widely used models. Notably, aircraft like the Airbus A350, Airbus A319, and Airbus A380 also appear in the top ranks, suggesting that larger, long-haul aircraft are significant contributors to CO2 emissions in the aviation industry.
+
+3. **CO2 Emissions by Airline**:
+    - The bar graph indicates that Lufthansa is the airline with the highest CO2 emissions, exceeding 300 million kg. Following Lufthansa, China Southern, China Eastern, and Delta also exhibit significant CO2 emissions, with each airline emitting over 200 million kg. Other notable contributors include Qantas, Hainan, and Xiamen Air. The data suggests that large, international airlines are major contributors to aviation-related CO2 emissions, with a sharp drop-off in emissions among smaller or regional airlines. Addressing emissions in these top airlines could have a substantial impact on reducing the overall carbon footprint of the aviation industry.
+
+4. **CO2 Emissions by Airport**:
+    -The bar graph reveals that Charles de Gaulle Airport (CDG) in Paris has the highest total CO2 emissions, followed closely by Frankfurt Airport (FRA) and Delhi Airport (DEL), each emitting over 400 million kg of CO2. Other notable airports with high emissions include Toronto Pearson Airport (YYZ), São Paulo–Guarulhos Airport (GRU), and Sydney Airport (SYD). This data indicates that major international hubs, particularly in Europe, Asia, and South America, are significant contributors to aviation-related CO2 emissions. Efforts to mitigate emissions at these key airports could have a substantial impact on reducing the overall carbon footprint of global air travel.
+
+5. **Most Popular Routes**:
+    - The funnel chart shows that the most popular flight routes are primarily domestic, with Melbourne to Sydney (488 flights) and Sydney to Melbourne (485 flights) leading, highlighting significant air traffic between these Australian cities. Other highly trafficked routes include Mumbai to Delhi and Delhi to Mumbai (each with 364 flights), reflecting major domestic travel within India. Additionally, routes such as Delhi to Bangalore (252 flights) and several routes within China, like Shanghai to Beijing and Shanghai to Shenzhen, indicate strong connectivity and frequent travel between these key cities.
+
+6. **Shortest and Longest Routes**:
+    - The bar graphs show the average duration of the shortest and longest flight routes. The shortest routes, such as Frankfurt to Munich, Brussels to Paris, and Frankfurt to Zurich, have an average duration of around 50-60 minutes, indicating quick domestic or short international hops within Europe. Conversely, the longest routes, such as Delhi to Chicago, Delhi to New York, and Delhi to Toronto, have average durations close to 1,000 minutes, reflecting extensive long-haul flights primarily between major cities in different continents. This contrast highlights the significant variation in travel times and distances between short-haul and long-haul flights.
+
+7. **Correlation Between Price and Distance**:
+    - The scatter plot demonstrates a positive correlation between ticket price and travel duration, with a correlation coefficient of approximately 0.71. This indicates a moderate to strong relationship, suggesting that as the duration of a flight increases, the ticket price tends to increase as well. While there is some variability, with a few outliers showing high prices for shorter durations, the overall trend line confirms that longer flights generally cost more, reflecting factors such as increased fuel consumption, operational costs, and possibly higher demand for longer routes.
+
+8. **Correlation Between Ticket Price and CO2 Emissions**:
+    - The scatter plot indicates a positive correlation between ticket price and CO2 emissions, with a correlation coefficient of approximately 0.75. This suggests a strong relationship, where higher ticket prices are associated with higher CO2 emissions. The trend line shows that as ticket prices increase, CO2 emissions also tend to increase, which may reflect that longer or more premium flights, which typically cost more, also result in greater CO2 emissions due to increased fuel consumption and operational factors. This relationship underscores the environmental impact of higher-priced, likely longer-distance air travel.
+
 
 ## Conclusions
 
