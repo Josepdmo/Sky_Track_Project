@@ -96,7 +96,7 @@
 
 2. **Most Polluting Aircraft Types**:
     - **Approach**: Aggregate CO2 emissions by aircraft type and identify which types have the highest emissions.
-![Top 20 Most Polluting Aircrafts]()
+![Top 20 Most Polluting Aircrafts](https://github.com/Josepdmo/big-project-number-1/blob/main/Images/Top%2020%20most%20polluting%20aircraft%20types.png)
 
 3. **CO2 Emissions by Airline**:
     - **Approach**: Aggregate CO2 emissions data by airline and analyze their relative environmental impact.
