@@ -96,7 +96,7 @@
     - **Analysis**: The most popular routes are typically short-haul flights.
     - **Approach**: Count the number of flights for each route and rank them.
     - The funnel chart shows that the most popular flight routes are primarily domestic, with Melbourne to Sydney (488 flights) and Sydney to Melbourne (485 flights) leading, highlighting significant air traffic between these Australian cities. Other highly trafficked routes include Mumbai to Delhi and Delhi to Mumbai (each with 364 flights), reflecting major domestic travel within India. Additionally, routes such as Delhi to Bangalore (252 flights) and several routes within China, like Shanghai to Beijing and Shanghai to Shenzhen, indicate strong connectivity and frequent travel between these key cities.
-![Top 20 Most Polluting Aircrafts](https://github.com/Josepdmo/big-project-number-1/blob/main/Images/Top%2010%20most%20populat%20routes.png)
+![Top 20 Most Polluting Aircrafts](https://github.com/Josepdmo/big-project-number-1/blob/main/Images/Top%2010%20most%20popular%20routes.png)
 
 2. **Shortest and Longest Routes**
     - **Analysis**: Identify routes with minimum and maximum distances.
