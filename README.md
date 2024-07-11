@@ -73,6 +73,7 @@
 1. **Most Pollutant Routes**:
     - **Approach**: Sum CO2 emissions for all flights on each route, then rank them to find the most polluting routes.
     - The table reveals that routes between Mumbai and Delhi top the list with over 51 million kg of CO2 emissions each. Other significant routes include Melbourne to Sydney, Delhi to Bangalore, and Sydney to Melbourne, each with emissions around 47-48 million kg. Major hubs such as Mumbai, Delhi, Melbourne, Sydney, and Shanghai are key contributors to high CO2 emissions, indicating substantial environmental impact from flights originating there. Frequent destination cities with high emissions include Delhi, Sydney, Singapore, and London, highlighting significant air traffic between these hubs and various departure cities.
+![Top 20 Most Polluting Aircrafts](https://github.com/Josepdmo/big-project-number-1/blob/main/Images/Top%2020%20most%20pollutant%20routes%20.png)
 
 2. **Most Polluting Aircraft Types**:
     - **Approach**: Aggregate CO2 emissions by aircraft type and identify which types have the highest emissions.
