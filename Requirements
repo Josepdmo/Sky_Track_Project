@@ -1,0 +1,10 @@
+These are the libraries we have used to make this project and their versions.
+
+# Name                    Version
+gdown                     5.2.0   
+pandas                    2.2.2  
+seaborn                   0.13.2
+matplotlib                3.8.4 
+requests                  2.32.3  
+bs4                       0.0.2 
+flight_project_functions
