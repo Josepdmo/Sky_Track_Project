@@ -147,7 +147,9 @@
 - Integrate real-time data analysis.
 - Develop predictive models for flight delays and pricing.
 - Expand the scope to include additional environmental impact metrics.
-- 
+
+### Link to slide deck 
+![(https://www.canva.com/design/DAGKpZ3NopU/p5aN03CYhEPVNmA3iGoHXg/view?utm_content=DAGKpZ3NopU&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
 ---
 
 **Sky Track** demonstrates the use of data analytics to derive meaningful insights and provide actionable recommendations for the aviation industry.
